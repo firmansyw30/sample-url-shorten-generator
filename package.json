@@ -1,0 +1,27 @@
+{
+  "name": "sample-url-shorten-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firmansyw30/sample-url-shorten-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firmansyw30/sample-url-shorten-generator/issues"
+  },
+  "homepage": "https://github.com/firmansyw30/sample-url-shorten-generator#readme",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "nanoid": "^5.1.11",
+    "redis": "^6.0.0"
+  }
+}
