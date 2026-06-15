@@ -1,3 +1,7 @@
+//import { customAlphabet } from 'nanoid';
+//const hexId = customAlphabet('0123456789abcdef', 16);
+//console.log(hexId());
+
 require('dotenv').config();
 const express = require('express');
 const redis = require('redis');
